@@ -1,0 +1,66 @@
+### PROGRAMA 1
+int x = 2 + 3 * 4;
+
+### PROGRAMA 2
+int x = (2 + 3) * 4;
+
+### PROGRAMA 3
+int x = 10 - 3 - 2;
+
+### PROGRAMA 4
+real x = 5 / 2;
+
+### PROGRAMA 5
+real x = 2;
+
+### PROGRAMA 6
+int x = 2;
+x = x + 1;
+print(x);
+
+### PROGRAMA 7
+bool activo = true;
+print(activo);
+
+### PROGRAMA 8
+int x = 2
+
+### PROGRAMA 9
+int x = (2 + 3;
+
+### PROGRAMA 10
+int x = 2 + * 3;
+
+### PROGRAMA 11
+print(x);
+
+### PROGRAMA 12
+int x = 1;
+real x = 2.0;
+
+### PROGRAMA 13
+int x = 2.5;
+
+### PROGRAMA 14
+bool b = true;
+int x = b + 1;
+
+### PROGRAMA 15
+int x = x + 1;
+
+### PROGRAMA 16
+real x = 10 / 0;
+
+### PROGRAMA 17
+
+### PROGRAMA 18
+int x = 2;
+extra
+
+### PROGRAMA 19
+bool b = true;
+b = 5;
+
+### PROGRAMA 20
+int x = 2;
+real y = true;
