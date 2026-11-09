@@ -194,3 +194,7 @@ Estrategia sencilla y correcta primero: para cada instrucción IR se carga el pr
 ## 10. Conclusión
 
 El proyecto implementa un compilador completo de cinco fases, desde el texto fuente hasta ensamblador educativo, con 20 pruebas del analizador y 21 pruebas de equivalencia que respaldan el comportamiento del optimizador.
+
+## 11. Repositorio
+
+[Ver el repositorio en GitHub](https://github.com/juanjose0624/COMPILADOR.git)
